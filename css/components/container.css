@@ -1,0 +1,17 @@
+.container{
+  width: 900px;
+  margin: 0 auto;
+}
+
+.banner {
+  color: white;
+}
+
+.banner .container p{
+ font-size: 20px;
+
+}
+
+.how-it-works{
+  text-align: center;
+}

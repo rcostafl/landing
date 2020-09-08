@@ -1,0 +1,15 @@
+.buttom{
+    border: 5px solid #9DA5B0; /*rgb(0, 6, 232);*/
+    padding: 10px 30px;
+    border-radius: 26%;
+    font-size: 18px;
+    font-weight: bolder;
+    color: #9DA5B0; /*rgb(0, 6, 232);*/
+}
+
+
+.buttom:hover {
+    background-color: #9DA5B0;
+    font-weight: bold;
+    color: white;
+}

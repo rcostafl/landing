@@ -1,0 +1,29 @@
+.cards{
+
+}
+
+.cards > .row1{
+  display: flex;
+  justify-content: space-between;
+}
+
+.cards > .row2{
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+ box-shadow: 5px 5px 10px grey;
+ width: 300px;
+ margin: 10px;
+
+}
+
+.card > img {
+  width: 180px;
+  height: 131px;
+}
+
+.card > p:nth-child(2)  {
+  font-weight: bold;
+}

@@ -1,0 +1,18 @@
+.footer {
+  height: 95px;
+  padding: 60px;
+  background-color: #44414D;
+  text-align: center;
+  color: #9DA5B0;
+}
+.links {
+  margin: 0 auto;
+}
+.links li{
+  display: inline;
+}
+
+.links a {
+  color:#868513; /*#5CDE88;*/
+  font-size: 30px;
+}

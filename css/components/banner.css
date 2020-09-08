@@ -1,0 +1,6 @@
+.banner{
+  background-image: url(../../images/banner.jpg);
+  background-size: cover;
+  object-fit:scale-down;
+  padding: 166px;
+}
