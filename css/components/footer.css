@@ -13,6 +13,11 @@
 }
 
 .links a {
-  color:#868513; /*#5CDE88;*/
+  color:#868513;
   font-size: 30px;
+  opacity: 0.6;
+}
+
+.links a:hover {
+  opacity: 1;
 }
